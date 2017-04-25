@@ -5,7 +5,6 @@ var csv = require('csv'),
 
 // represents total sessions in date range you're considering
 var totalSessions = 522367;
-// var totalSessions = 323508;
 // Proxi: 53,695
 // IP: 56,577
 // EBM: 323,508
